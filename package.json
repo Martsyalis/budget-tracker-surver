@@ -8,7 +8,9 @@
     "test": "test"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "eslint": "^4.8.0",
+    "jsonwebtoken-promisified": "^1.0.3",
     "mkdirp": "^0.5.1",
     "mongoose": "^4.12.3",
     "rimraf": "^2.6.2",
